@@ -107,3 +107,17 @@ int main() {
 
     return 0;
 }
+
+/*
+Output:
+Best sum: 4
+Best sum: 4
+Best sum: 5
+No subarray
+Best sum: 5
+Best sum: 4
+Best sum: 5
+No subarray
+No subarray
+*/
+
